@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AVASA ESTATES | Luxury Real Estate</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F5F5DC;
+            color: #2C2C2C;
+        }
+        .header {
+            background-color: #2C2C2C;
+            color: #E5C100;
+            text-align: center;
+            padding: 20px;
+            font-size: 32px;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            background-image: url('https://source.unsplash.com/1600x900/?luxury,mansion');
+            height: 500px;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 40px;
+            font-weight: bold;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+        }
+        .section {
+            margin-top: 40px;
+            font-size: 20px;
+        }
+        .footer {
+            background-color: #2C2C2C;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">AVASA ESTATES</div>
+    <div class="hero">Luxury, Redefined.</div>
+    <div class="container">
+        <div class="section">
+            <h2>About Us</h2>
+            <p>AVASA ESTATES is synonymous with timeless luxury and sophistication, curating the finest real estate across the UK.</p>
+        </div>
+        <div class="section">
+            <h2>Our Properties</h2>
+            <p>Explore our exclusive collection of luxury estates, tailored for the elite.</p>
+        </div>
+        <div class="section">
+            <h2>Contact Us</h2>
+            <p>Email: contact@avasaestates.co.uk | Phone: +44 20 7946 0123</p>
+        </div>
+    </div>
+    <div class="footer">&copy; 2025 AVASA ESTATES. All Rights Reserved.</div>
+</body>
+</html>
